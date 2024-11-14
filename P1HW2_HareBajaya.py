@@ -2,6 +2,16 @@
 # November 14, 2024
 # P1 HW2
 # Calculating Travel Expenses
+#
+#*****pseudocode****
+#Ask user to enter their budget
+#Ask user to enter travel destination
+#Ask user for amount they will spend on gas
+#Ask user for amount they will spend on accommodation
+#Ask user for amount they will spend on food
+#Add expenses
+#Subtract expenses from budget
+#Display results
 
 print('This program calculates and displays travel expenses')
 
